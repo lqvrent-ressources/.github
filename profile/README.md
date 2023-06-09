@@ -1,2 +1,2 @@
-# .github
+## 👋 Hi !
 Coming soon !
